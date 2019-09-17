@@ -17,9 +17,9 @@ public class HamburguesaDeCerdo extends Platillo{
         System.out.println("añadindo apio y peregil a la hamburguesa");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo papas a la francesa :)\n"+
         "Añaniendo Cocacola");
-    }
+    }*/
 }

@@ -21,9 +21,10 @@ public class HamburguesaVeganaConPortobello extends Platillo{
         System.out.println("añadindo lechiga,jitomates y pimentones a la hamburguesa");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo coctel de  :)\n"+
         "Añaniendo Cocacola");
     }
+    */
 }

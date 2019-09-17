@@ -20,9 +20,9 @@ public class HamburguesaArabe extends Platillo{
         System.out.println("añadindo lechuga,col y jitomate la hamburguesa");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo coctel de  :)\n"+
         "Añaniendo Cocacola");
-    }
+    }*/
 }

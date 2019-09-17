@@ -21,9 +21,10 @@ public class HamburguesaDePolloYHongos extends Platillo{
         System.out.println("añadindo hojas de espinaca y champiñones a la hamburguesa");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo coctel de  :)\n"+
         "Añaniendo Cocacola");
     }
+    */
 }

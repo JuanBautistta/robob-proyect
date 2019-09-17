@@ -21,9 +21,10 @@ public class HamburguesaMexica extends Platillo{
         System.out.println("añadiendo el elote y el pure de aguacate a la hamburguesa");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo coctel de  :)\n"+
         "Añaniendo Cocacola");
     }
+    */
 }

@@ -19,9 +19,10 @@ public class HamburguesaPepita extends Platillo{
         System.out.println("añadiendo almendras,pimentones,jitomate y cebolla");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo agua simple:)\n"+
         "Añadiendo papas fritas");
     }
+    */
 }

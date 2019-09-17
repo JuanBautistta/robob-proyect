@@ -22,9 +22,10 @@ public class HamburguesaVegetariana extends Platillo{
         System.out.println("añadindo lechuga y calabazas a la hamburguesa");
     }
 
-    @Override
+    /*@Override
     void añadirCondimentosExtra(){
         System.out.println("Añadiendo coctel de  :)\n"+
         "Añaniendo Cocacola");
     }
+    */
 }

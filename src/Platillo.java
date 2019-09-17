@@ -26,7 +26,6 @@ public abstract class Platillo{
             ponerQueso();
         }
         ponerPan();
-        añadirCondimentosExtra();
     }
 
     void ponerPan(){
@@ -48,11 +47,5 @@ public abstract class Platillo{
     abstract void ponerVegetales();
 
     abstract void prepararProteina();
-
-    abstract void añadirCondimentosExtra();
-
-
-
-
 
 }
